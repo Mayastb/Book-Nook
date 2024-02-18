@@ -10,7 +10,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Jak Levy",
+  "author": "Maya Shteinberg",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
